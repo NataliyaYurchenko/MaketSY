@@ -656,7 +656,7 @@ h3.profile-title {
   color: #5f6d7e; 
   position:fixed;
   bottom:50px;
-  right:30px;
+  right:50px;
   display:none;
   text-indent:-1000px;
   background: url("../img/2b06.png") no-repeat;
