@@ -405,6 +405,8 @@ h3.profile-title {
     width: 100px;
     height: 100px;
     -webkit-border-radius: 50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 30px;
