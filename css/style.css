@@ -327,6 +327,7 @@ hr {
   -webkit-border-radius: 75px;
   -moz-border-radius:75px;
   -ms-border-radius:75px;
+  -oborder-radius:75px;
   border-radius: 80px;
   overflow: hidden;
   margin-bottom: 20px;
@@ -407,6 +408,7 @@ h3.profile-title {
     -webkit-border-radius: 50px;
     -moz-border-radius:50px;
     -ms-border-radius:50px;
+    -o-border-radius:50px;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 30px;
